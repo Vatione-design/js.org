@@ -2105,6 +2105,7 @@
     "pastebin-alert": "ramadhanamizudin.github.io/pastebin-alert.js", // noCF? (don´t add this in a new PR)
     "pathtrace": "kovacsv.github.io/WebGLPathTrace", // noCF? (don´t add this in a new PR)
     "pax": "nathan.github.io/pax",
+    "pay": "vatione-design.github.io/Vatione",
     "pdf": "iamcristye.github.io/PDF",
     "pdf-lib": "hopding.github.io/pdf-lib", // noCF
     "pdfutils": "gottox.github.io/node-pdfutils", // noCF? (don´t add this in a new PR)
